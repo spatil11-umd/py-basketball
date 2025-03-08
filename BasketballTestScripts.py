@@ -1,7 +1,6 @@
 """
 Name: Siddharth Patil
 Directory ID: spatil11@terpmail.umd.edu
-Date: 2024-14-24
 Exercise: Final Proposal
 """
 
